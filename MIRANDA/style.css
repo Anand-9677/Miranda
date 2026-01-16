@@ -1,7 +1,7 @@
 /* Add commit */
 @font-face {
     font-family: domain;
-    src: url(.fonts/domain.ttf);
+    src: url(./fonts/domain.ttf);
 }
 *{
     margin: 0;
@@ -895,4 +895,5 @@ html, body{
 }
 
 /* End */
+
 
